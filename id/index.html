@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+	<title> Manajemen Pengunjung</title>
+
+	<link rel="shortcut icon" href="/images/favicon.ico">
+
+	<link rel="stylesheet" href="css/stylesheet.css">
+
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<script src="js/jquery.min.js"></script>
+
+	<script src="js/bootstrap.min.js"></script>
+
+	<style>
+		@import url('css/stylesheet.css');
+	</style>
+</head>
+
+<body>  	<img src="images/pic02.svg" alt="pecinta musim panas" id="left"><div class="middle">
+<p id="p01"> PORTAL PENGUNJUNG</p>
+<br><br><center> <button type="button" class="btn btn-success btn-lg btn-block btn_space_left" data-toggle="modal" data-target="#register">Daftar</button> <button type="button" class="btn btn-warning btn-lg btn-block btn_space_right" data-toggle="modal" data-target="#exit"><center>Keluar</center></button> </center>
+</div>
+<comment></comment><div id="register" class="modal fade" role="dialog"><div class="modal-dialog"><comment><div class="modal-content" style=" background-color: rgb(0,0,0,0.5)">
+<div class="modal-header"> <button type="button" class="close" data-dismiss="modal">Bahasa Indonesia:</button><h3 class="modal-title" style="color:white;"><center> Masukkan Detail Anda </center></h3>
+</div>
+<div class="modal-body"><form class="form-horizontal" action="entry.php" method="POST">
+<div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Nama:</label> </div>
+<div class="col-sm-10"></div>
+<input type="text" class="form-control" name="Name" id="name" placeholder="Enter Name" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">E-mail:</label> </div>
+<div class="col-sm-10"></div>
+<input type="email" class="form-control" name="Email" id="name" placeholder="Enter Email" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Telepon:</label> </div>
+<div class="col-sm-10"></div>
+<input type="number" class="form-control" name="Phone" id="name" placeholder="Enter Phone" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Nama Tuan Rumah:</label> </div>
+<div class="col-sm-10"></div>
+<input type="text" class="form-control" name="HostName" id="name" placeholder="Enter Host Name" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Email Tuan Rumah:</label> </div>
+<div class="col-sm-10"></div>
+<input type="email" class="form-control" name="HostEmail" id="name" placeholder="Enter Host Email" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Telepon Tuan Rumah:</label> </div>
+<div class="col-sm-10"></div>
+<input type="number" class="form-control" name="HostPhone" id="name" placeholder="Enter HostPhone" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Alamat:</label> </div>
+<div class="col-sm-10"></div>
+<input type="text" class="form-control" name="Address" id="name" placeholder="Enter Address" required=""><comment></comment><div class="form-group"><div class="col-sm-offset-2 col-sm-10"> <button type="submit" class="btn btn-default">Kirim</button> </div></div>
+</form></div>
+</div></comment></div></div>
+<comment></comment><div id="exit" class="modal fade" role="dialog"><div class="modal-dialog"><comment><div class="modal-content" style=" background-color: rgb(0,0,0,0.5)">
+<div class="modal-header"> <button type="button" class="close" data-dismiss="modal">Bahasa Indonesia:</button><h3 class="modal-title" style="color:white;"><center> KELUAR</center></h3>
+</div>
+<div class="modal-body">hp" metode="POST"&gt;<div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">Id Pengguna:</label> </div>
+<div class="col-sm-10"></div>
+<input type="text" class="form-control" name="UserId" id="name" placeholder="Enter UserId" required=""><div class="form-group"> <label class="control-label col-sm-2" for="name" style="color:white;">E-mail:</label> </div>
+<div class="col-sm-10"></div>
+<input type="Email" class="form-control" name="Email" id="name" placeholder="Enter Email" required=""><comment></comment><div class="form-group"><div class="col-sm-offset-2 col-sm-10"> <button type="submit" class="btn btn-default">Kirim</button>
+</div></div>
+</div>
+</div></comment></div></div>   </body>
+
+</html>

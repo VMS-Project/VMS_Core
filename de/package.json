@@ -1,0 +1,25 @@
+{
+  "name": "visitor-management-system",
+  "version": "1.0.0",
+  "description": "Visitor managment system by T1Z3N",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T1z3n/Visitor-Management-System.git"
+  },
+  "keywords": [
+    "VMS",
+    "visitor",
+    "managment",
+    "system"
+  ],
+  "author": "T1Z3N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T1z3n/Visitor-Management-System/issues"
+  },
+  "homepage": "https://github.com/T1z3n/Visitor-Management-System#readme"
+}
