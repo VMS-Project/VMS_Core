@@ -4,7 +4,7 @@
 
 
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/T1z3n/Visitor-Management-System/blob/master/CODE_OF_CONDUCT.md) | [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9497/badge)](https://www.bestpractices.dev/projects/9497)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1gx66.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/T1z3n/Visitor-Management-System/blob/master/CODE_OF_CONDUCT.md) | [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9516/badge)](https://www.bestpractices.dev/projects/9516)
 # Hacktoberfest 2024 | IN-SCOPE
 
 - Add more Language Support via gitlocalize (Translation)
