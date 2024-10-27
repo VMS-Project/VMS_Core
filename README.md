@@ -4,7 +4,7 @@
 
 ## Workload
 The current Core is in Development, so see the [Projects](https://github.com/VMS-Project/VMS_Core/projects) and [Issue](https://github.com/VMS-Project/VMS_Core/issues) for the Dev-State.
-Under [Discusstion](https://github.com/orgs/VMS-Project/discussions), we will announce when we have an ready-to-publish Version for Company-Use allready.
+Under [Discusstion](https://github.com/orgs/VMS-Project/discussions), we will announce when we have an ready-to-publish Version for Company-Use.
 
 # Community
 [Matrix-Room](https://matrix.to/#/#VMS_projects:tchncs.de)

@@ -28,9 +28,9 @@ function test_input($data)
 ?>
 
 <?php
-date_default_timezone_set('Asia/Kolkata');
+date_default_timezone_set('Europe/Berlin');
 
-$Arrive = date('Y/m/d H:i:s');
+$Arrive = date('d/m/Y H:i:s');
 
 $Depart = "Inside";
 

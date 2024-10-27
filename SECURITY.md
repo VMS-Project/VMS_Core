@@ -1,12 +1,9 @@
-
-[[German](https://github.com/T1z3n/Visitor-Management-System/blob/master/de-DE/SECURITY.md)] | [[French](https://github.com/T1z3n/Visitor-Management-System/blob/master/fr-FR/SECURITY.md)] | [[Spanish](https://github.com/T1z3n/Visitor-Management-System/blob/master/es/SECURITY.md)] | [[日本語](https://github.com/T1z3n/Visitor-Management-System/blob/master/ja/SECURITY.md)]
-
 # Security Policy
 
 ## REPORTING
 So, you have found a security vulnerability. Please, be sure to responsibly disclose it to us by reporting a vulnerability under following Page:
-[https://github.com/T1z3n/Visitor-Management-System/issues
-](https://github.com/T1z3n/Visitor-Management-System/security/advisories/new)
+[https://github.com/VMS-Project/Visitor-Management-System/issues
+](https://github.com/VMS-Project/Visitor-Management-System/security/advisories/new)
 ## NON-QUALIFYING VULNERABILITIES
 We will not accept reports of vulnerabilities of the following types:
 
@@ -21,7 +18,7 @@ We will not accept reports of vulnerabilities of the following types:
 
 ## SUPPORTED VERSIONS
 
-Supported are only the latest Version on Github.
+Only the latest Version on Github.
 At the moment there's no LTS avalible.
 
 ## SEVERITY SCORING

@@ -1,3 +1,8 @@
+	// send_email_visitor This function is the Mail-sendin' Service on the Server
+	// Überlegung, ob es nicht sinniger ist, die Recive, Sendin etc. Mails Einstellbar zu machen
+	// Firma XY möchte gerne die Besucher an eine gesond. E-Mail gesendet bekommmen haben, je nach Besucher muss diese E-Mail
+	// In eine andere Abteilung.
+	
 <?php
 ob_start();
 
