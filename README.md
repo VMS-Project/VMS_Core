@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d2833b0c6064b7298050edf31a9b382)](https://app.codacy.com/gh/VMS-Project/VMS_Core/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 # Serverside from VMS
 > This is the Repo for 'ur own Server. Here it comes ur Databases and the Connection between ur Server and the [VMS_app](https://github.com/VMS-Project/VMS_App) & [VMS_mobile](https://github.com/VMS-Project/VMS_mobile)
 
