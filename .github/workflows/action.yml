@@ -1,0 +1,22 @@
+            - name: Attest Build Provenance
+  uses: actions/attest-build-provenance@v1.4.4
+  with:
+    # Path to the artifact serving as the subject of the attestation. Must specify exactly one of "subject-path" or "subject-digest". May contain a glob pattern or list of paths (total subject count cannot exceed 2500).
+
+    subject-path: # optional
+    # Digest of the subject for which provenance will be generated. Must be in the form "algorithm:hex_digest" (e.g. "sha256:abc123..."). Must specify exactly one of "subject-path" or "subject-digest".
+
+    subject-digest: # optional
+    # Subject name as it should appear in the provenance statement. Required unless "subject-path" is specified, in which case it will be inferred from the path.
+
+    subject-name: # optional
+    # Whether to push the provenance statement to the image registry. Requires that the "subject-name" parameter specify the fully-qualified image name and that the "subject-digest" parameter be specified. Defaults to false.
+
+    push-to-registry: # optional
+    # Whether to attach a list of generated attestations to the workflow run summary page. Defaults to true.
+
+    show-summary: # optional, default is true
+    # The GitHub token used to make authenticated API requests.
+
+    github-token: # optional, default is ${{ github.token }}
+          
